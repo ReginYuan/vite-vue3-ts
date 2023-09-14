@@ -41,42 +41,45 @@ index.ts //路由管理主页
 
 # 项目页面结构
 
-login  // 登录页
+login  // 登录页  
 
-index.vue // 登录页主页
+
+index.vue // 登录页主页  
+
       serviceAgree.vue // 服务协议
       privacyPolicy.vue // 隐私政策
 
-task  // 任务页
+task  // 任务页  
 
-index.vue // 任务主页
+index.vue // 任务主页  
+
       search.vue // 任务搜索
       details.vue // 任务详情
       companySource.vue // 公司任务主页
 
-contract //合约页
+contract //合约页  
 
-index.vue // 合约主页
+index.vue // 合约主页  
+
       details.vue // 合约详情
       progress.vue // 合约进度
 
-message  //消息页
+message  //消息页  
 
 index.vue // 消息主页
       systemList.vue // 系统消息列表
       systemDetails.vue // 系统消息详情
       talk.vue // 对话消息
 
-my // 我的主页
+my // 我的主页  
 
-index.vue
+index.vue //我的主页首页  
 
-user // 用户中心
-
-index.vue // 个人信息主页
-      authReal.vue // 实名认证
-      certified.vue // 已完成实名认证
-      identitySwitch.vue // 切换身份
+   user // 用户中心  
+        index.vue // 个人信息主页  
+        authReal.vue // 实名认证  
+        certified.vue // 已完成实名认证  
+        identitySwitch.vue // 切换身份  
 
 set // 我的设置
 
